@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @rakshitdogra
 - 👀 I’m interested in cyber security and tech.
-- 🌱 I’m currently learning python, html & css, Java script and Android development.
+- 💻 I’m currently learning about Python's endless capabilities.
 - 📫 rakshitdogra.work@gmail.com
